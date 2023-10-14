@@ -1,4 +1,4 @@
-# FRT2 :- Future Ready Talent Project By Aditya Chauhan
+# FRT :- Future Ready Talent Project By Aditya Chauhan
 
 Hello I Created A Website Of KOVID. 
 KOVID is a comprehensive platform that provides accurate and up-to-date information about COVID-19. Our platform aims to educate people about the pandemic and its impact on health and society, as well as provide resources and guidelines to help individuals and communities stay safe and healthy.
@@ -23,4 +23,5 @@ KOVID is a comprehensive platform that provides accurate and up-to-date informat
 ![screencapture-salmon-ground-0b9ab3900-3-azurestaticapps-net-healthbot-html-2023-05-06-09_37_49](https://user-images.githubusercontent.com/132263141/236599175-aef703b4-dc4a-44de-affe-e48e00960f8a.png)
 
 # 6. Azure Portal Screenshot :- 
-![screencapture-portal-azure-2023-05-06-09_36_55](https://user-images.githubusercontent.com/132263141/236599021-44fa0fa8-578f-4154-b03f-70575e079b4e.png)
+![screencapture-portal-azure-2023-10-15-00_12_06](https://github.com/Aditya2086/Future-Ready-Talent-Project/assets/90275944/5b6f3d91-064b-4a6f-b7c3-e5f828d463a6)
+
